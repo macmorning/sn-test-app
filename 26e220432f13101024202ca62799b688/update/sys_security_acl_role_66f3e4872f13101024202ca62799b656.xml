@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-21 06:52:38</sys_created_on>
+        <sys_id>66f3e4872f13101024202ca62799b656</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.12167.workspace.sdwan_xp_portal.sdwan_xp_portal</sys_name>
+        <sys_package display_value="SDWAN XP Portal" source="x_12167_sdwan_xp_p">26e220432f13101024202ca62799b688</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SDWAN XP Portal">26e220432f13101024202ca62799b688</sys_scope>
+        <sys_security_acl display_value="x.12167.workspace.sdwan_xp_portal">52f3e4872f13101024202ca62799b63b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_66f3e4872f13101024202ca62799b656</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-21 06:52:38</sys_updated_on>
+        <sys_user_role display_value="sdwan_xp_portal" name="sdwan_xp_portal">a6f3e4872f13101024202ca62799b650</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

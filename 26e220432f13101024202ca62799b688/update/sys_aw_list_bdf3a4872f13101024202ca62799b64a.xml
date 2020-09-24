@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Configuration Items">71f3a4872f13101024202ca62799b647</category>
+        <columns>asset,asset_tag,assigned,assigned_to,assignment_group,attestation_score,attested,attested_by,attested_date,attributes,can_print,category,change_control,checked_in,checked_out,comments,company,correlation_id,cost,cost_cc,cost_center,delivery_date,department,discovery_source,dns_domain,due,due_in,duplicate_of,environment,fault_count,first_discovered,fqdn,gl_account,install_date,install_status,invoice_number,ip_address,justification,last_discovered,lease_id,life_cycle_stage,life_cycle_stage_status,location,mac_address,maintenance_schedule,managed_by,managed_by_group,manufacturer,model_id,model_number,monitor,name,operational_status,order_date,owned_by,po_number,purchase_date,schedule,serial_number,short_description,skip_sync,start_date,subcategory,support_group,supported_by,sys_class_name,sys_class_path,sys_created_by,sys_created_on,sys_domain,sys_domain_path,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on,unverified,vendor,warranty_expiration</columns>
+        <condition/>
+        <groups/>
+        <list_attributes/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-21 06:52:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bdf3a4872f13101024202ca62799b64a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SDWAN XP Portal" source="x_12167_sdwan_xp_p">26e220432f13101024202ca62799b688</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SDWAN XP Portal">26e220432f13101024202ca62799b688</sys_scope>
+        <sys_update_name>sys_aw_list_bdf3a4872f13101024202ca62799b64a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-21 06:52:35</sys_updated_on>
+        <table>cmdb_ci</table>
+        <title>All</title>
+        <workspace display_value="SDWAN XP Portal">d89364432f13101024202ca62799b650</workspace>
+    </sys_aw_list>
+</record_update>

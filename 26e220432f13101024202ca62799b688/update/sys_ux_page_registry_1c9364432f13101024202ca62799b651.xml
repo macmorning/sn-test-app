@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>d89364432f13101024202ca62799b650</admin_panel>
+        <admin_panel_table>sys_aw_master_config</admin_panel_table>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <path>workspace/sdwan_xp_portal</path>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-21 06:50:51</sys_created_on>
+        <sys_id>1c9364432f13101024202ca62799b651</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SDWAN XP Portal</sys_name>
+        <sys_package display_value="SDWAN XP Portal" source="x_12167_sdwan_xp_p">26e220432f13101024202ca62799b688</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SDWAN XP Portal">26e220432f13101024202ca62799b688</sys_scope>
+        <sys_update_name>sys_ux_page_registry_1c9364432f13101024202ca62799b651</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-21 06:50:51</sys_updated_on>
+        <title>SDWAN XP Portal</title>
+    </sys_ux_page_registry>
+</record_update>

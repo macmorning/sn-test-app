@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="My test table" language="en" table="x_12167_sdwan_xp_p_my_test_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>My test table</label>
+            <language>en</language>
+            <name>x_12167_sdwan_xp_p_my_test_table</name>
+            <plural>My test tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-24 05:46:02</sys_created_on>
+            <sys_id>5c81f3772f1bd01024202ca62799b67d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>My test table</sys_name>
+            <sys_package display_value="SDWAN XP Portal" source="x_12167_sdwan_xp_p">26e220432f13101024202ca62799b688</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SDWAN XP Portal">26e220432f13101024202ca62799b688</sys_scope>
+            <sys_update_name>sys_documentation_x_12167_sdwan_xp_p_my_test_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-24 05:46:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
